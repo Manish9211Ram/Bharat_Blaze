@@ -1,22 +1,26 @@
 # 🇮🇳 Bharat Blaze
 
-**Bharat Blaze** is an ambitious open-world action-adventure project inspired by the legendary *Grand Theft Auto* franchise. Built in Unity, this project aims to create a dynamic, engaging, and expansive urban environment where players can freely explore, drive, and interact with the world.
+**Bharat Blaze** is an ambitious open-world action-adventure project inspired by the legendary *Grand Theft Auto* franchise. Built in Unity, this project aims to create a dynamic, engaging, and expansive urban environment where players can freely explore and interact with the world.
 
 ## 🏙️ About the Project
 
-*Bharat Blaze* takes the classic sandbox gameplay formula and works towards infusing it with unique flavor and vibrant aesthetics. The current focus is on laying down the foundations for a massive interactive city. Whether you're cruising through the colorful streets, navigating tight alleys, or simply taking in the sights, *Bharat Blaze* is built to deliver a thrilling open-world experience.
+*Bharat Blaze* takes the classic sandbox gameplay formula and works towards infusing it with a unique flavor and vibrant aesthetics. The game is currently in active development, focusing on establishing solid core mechanics and a lively world. 
 
-### ✨ Key Features & Current Progress
-- **Expansive Open World**: Features a massive "Colorful City" environment specifically designed for exploration and driving.
-- **Fluid Third-Person Action**: Smooth player controllers, physics, and dynamic camera systems for seamless movement.
-- **Integrated Mini-Map**: A real-time navigation system to help you find your way around the sprawling urban landscape.
-- **Mobile-Ready Controls**: Built-in on-screen touch controls, virtual joysticks, and an optimized UI ensuring it is ready for mobile devices.
-- **High-Quality Graphics**: Built on Unity's Universal Render Pipeline (URP) for optimized, beautiful, and scalable visuals.
+### ✨ Current Features (Work in Progress)
+Here is what is currently implemented in the game:
+
+- **Main Menu**: A functional UI to launch you straight into the action.
+- **World Exploration**: An expansive "Colorful City" environment ready for the player to travel across and explore.
+- **Player Locomotion**: Smooth and responsive controls allowing the player to **Sprint** and **Jump** across the city.
+- **Combat Mechanics**: Basic **Attack** functionalities have been integrated.
+- **Integrated Mini-Map**: A real-time navigation system to help you track your position as you travel around the urban landscape.
+
+*(More exciting features and mechanics are currently under active development!)*
 
 ## 🛠️ Tech Stack & Assets
 - **Engine**: Unity 3D
 - **Graphics**: Universal Render Pipeline (URP)
-- **Version Control**: Git & Git LFS (for large 3D models and Unity assets)
+- **Version Control**: Git & Git LFS (for tracking large 3D models and Unity assets)
 
 ## 🚀 Getting Started
 
@@ -43,7 +47,7 @@ To get a local copy up and running, follow these simple steps:
 
 ## 🤝 Contributing
 
-Contributions, bug reports, and feature suggestions are always welcome as the city continues to grow!
+Contributions, bug reports, and feature suggestions are always welcome as the game continues to grow!
 
 ---
 *Disclaimer: This project is an independent educational replica inspired by open-world games like Grand Theft Auto.*
