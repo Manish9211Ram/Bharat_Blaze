@@ -1,4 +1,4 @@
-# 🇮🇳 Bharat Blaze
+# Bharat Blaze
 
 **Bharat Blaze** is an ambitious open-world action-adventure project inspired by the legendary *Grand Theft Auto* franchise. Built in Unity, this project aims to create a dynamic, engaging, and expansive urban environment where players can freely explore and interact with the world.
 
